@@ -1,0 +1,109 @@
+<style>
+.contact-form {
+  margin-top: 1em;
+}
+.contact-form h3 {
+  font-size: 0.9em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.75em;
+  color: #494e52;
+}
+.contact-form input,
+.contact-form select,
+.contact-form textarea {
+  width: 100%;
+  padding: 0.4em 0.6em;
+  margin-bottom: 0.5em;
+  border: 1px solid #d3d3d3;
+  border-radius: 3px;
+  font-size: 0.8em;
+  font-family: inherit;
+  box-sizing: border-box;
+  background: #fff;
+}
+.contact-form textarea {
+  height: 80px;
+  resize: vertical;
+}
+.contact-form button {
+  width: 100%;
+  padding: 0.5em;
+  background: #1A2B3C;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  font-size: 0.8em;
+  cursor: pointer;
+  font-family: inherit;
+}
+.contact-form button:hover {
+  background: #2E5E8E;
+}
+.contact-form .success-message {
+  display: none;
+  background: #d4edda;
+  color: #155724;
+  padding: 0.5em;
+  border-radius: 3px;
+  font-size: 0.8em;
+  text-align: center;
+  margin-top: 0.5em;
+}
+</style>
+
+<div class="contact-form">
+  <h3>Get In Touch</h3>
+  <form id="contact-form" action="https://formspree.io/f/xwvyjvnw" method="POST">
+    <input
+      type="text"
+      name="name"
+      placeholder="Your Name"
+      required
+    />
+    <input
+      type="email"
+      name="email"
+      placeholder="Your Email"
+      required
+    />
+    <select name="subject" required>
+      <option value="" disabled selected>Subject</option>
+      <option value="Job Opportunity">Job Opportunity</option>
+      <option value="Collaboration">Collaboration</option>
+      <option value="Speaking or Writing">Speaking or Writing</option>
+      <option value="Other">Other</option>
+    </select>
+    <textarea
+      name="message"
+      placeholder="Your message..."
+      required
+    ></textarea>
+    <button type="submit">Send Message</button>
+  </form>
+  <div class="success-message" id="success-msg">
+    Thanks for reaching out! I will be in touch soon.
+  </div>
+</div>
+
+<script>
+  var form = document.getElementById('contact-form');
+  var success = document.getElementById('success-msg');
+  if (form) {
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+      var data = new FormData(form);
+      fetch(form.action, {
+        method: 'POST',
+        body: data,
+        headers: { 'Accept': 'application/json' }
+      }).then(function(response) {
+        if (response.ok) {
+          form.reset();
+          form.style.display = 'none';
+          success.style.display = 'block';
+        }
+      });
+    });
+  }
+</script>
