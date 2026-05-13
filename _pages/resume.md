@@ -4,7 +4,7 @@ permalink: /resume/
 toc: false
 ---
 
-<a href="/assets/files/Rivers_Wells_Resume.pdf" class="btn btn--primary" download>Download Resume (PDF)</a>
+<a href="/assets/files/Rivers Wells Resume.pdf" class="btn btn--primary" download>Download Resume (PDF)</a>
 
 ---
 
