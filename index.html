@@ -1,7 +1,43 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
-author_profile: true
+layout: splash
+permalink: /
+hidden: true
+header:
+  overlay_color: "#1A2B3C"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/bio-photo1.png
+  actions:
+    - label: "View Resume"
+      url: "/resume/"
+    - label: "View Portfolio"
+      url: "/portfolio/"
+excerpt: "Senior Program and Content Manager specializing in AI tooling, content strategy, and data accessibility."
+
+feature_row:
+  - title: "Program & Project Management"
+    excerpt: "9+ years owning complex, cross-functional programs at Amazon from ideation through delivery, consistently ahead of schedule and above goal."
+  - title: "AI Tooling & LLM Development"
+    excerpt: "Designed and launched an LLM-powered AI agent delivering operational BI insights in under two minutes, with proposals targeting 80% reductions in document creation time."
+  - title: "Content Strategy & Communications"
+    excerpt: "Owned content programs reaching 350,000 monthly readers and enterprise communications campaigns reaching 1.7 million employees."
+
+feature_row2:
+  - title: "Data Research & Validation"
+    excerpt: "Conducted multi-week data quality audits using SQL validation, producing findings that drove senior leadership alignment and restructured core operational processes."
+  - title: "Technical Writing"
+    excerpt: "Produced documentation, SOPs, and video tutorials that accumulated 1.5 million+ views, supporting employees and teams globally."
+  - title: "UX & CX Development"
+    excerpt: "Built and improved customer-facing content experiences, reducing customer effort and improving discoverability across large-scale content libraries."
 ---
+
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" %}
+
+## Recent Posts
+
+<div class="grid__wrapper">
+  {% for post in site.posts limit:3 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
