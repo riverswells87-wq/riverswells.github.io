@@ -1,9 +1,9 @@
 ---
-permalink: /about/
 title: "About"
+permalink: /about/
 ---
 
-Rivers Wells did not set out to become a program manager or technical writer. He set out to fix computers.
+Rivers Wells did not set out to become a program manager. He set out to fix computers.
 
 His Amazon career began in IT support, earning a 100% customer satisfaction rating across approximately 6,000 tickets before being selected for a competitive rotation with Global IT Content Management. That rotation changed everything. It turned out that the part of the job Rivers was best at — and most drawn to — was not resolving the ticket. It was making sure the next person did not need to file one.
 
@@ -26,18 +26,6 @@ Rivers' most meaningful professional work has been at the intersection of data a
 As project owner of it.amazon.com, he managed a content ecosystem serving 350,000 monthly readers, using data to drive every significant decision. When dashboard errors were misrepresenting site performance, he identified them, wrote the case for correction, and achieved alignment that added hundreds of basis points to reported metrics. When UX data showed that 20% of site traffic was spread across 32 articles that could be consolidated into 5, he led the project and measured the result.
 
 In his current role, he took that same instinct and applied it to AI. The ICON Data Assistant started as a question: what if anyone in the organization could query operational data in plain language and get an answer in under two minutes? Rivers built the answer.
-
----
-
-### Skills and Expertise
-
-- **Program and Project Management** — end-to-end ownership of cross-functional programs at VP-level scale
-- **AI Tooling and LLM Development** — agent design, natural language interfaces, AI-assisted workflow automation
-- **Content Strategy** — information architecture, editorial standards, CMS platforms, localization, accessibility
-- **Technical Writing** — SOPs, developer documentation, UX writing, video scripting and production
-- **Enterprise Communications** — multi-channel campaign management, stakeholder alignment, change communications
-- **Data Research and Validation** — SQL, QuickSight, BI reporting, data quality audits, KPI frameworks
-- **Tools** — Adobe Creative Cloud, PowerShell, Excel, Microsoft Office Suite, Workfront
 
 ---
 
