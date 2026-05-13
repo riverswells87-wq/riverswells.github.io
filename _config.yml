@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: M. Rivers Wells
+email: riverswells87@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+twitter_username: 
+github_username: 
 minimal_mistakes_skin: default
 search: true
 
@@ -60,11 +60,11 @@ plugins:
 author:
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am a Senior Program and Content Manager with 9+ years at Amazon, specializing in AI tooling, content strategy, and data accessibility. I build programs and tools that turn complex information into clear, measurable outcomes. I designed and launched an LLM-powered AI agent that delivers operational BI insights in under two minutes, and developed automation proposals that cut document creation time by 80%. I also owned Amazon's global internal IT support site, driving content improvements that added hundreds of basis points to site performance for 350,000 monthly readers. As a Communications Program Manager, I led campaigns reaching 1.7 million employees and drove adoption results exceeding goals by 283%. I navigated complex, multi-stakeholder environments and consistently delivered ahead of schedule. I am exploring new opportunities in program management, AI tooling, content strategy, and communications leadership. If you are building something that needs someone who can own it end to end, I would love to connect."
   links:
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.linkedin.com/in/marion-rivers-wells/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
