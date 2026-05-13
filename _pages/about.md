@@ -3,8 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-## About M. Rivers Wells
-
 Rivers Wells did not set out to become a program manager or technical writer. He set out to fix computers.
 
 His Amazon career began in IT support, earning a 100% customer satisfaction rating across approximately 6,000 tickets before being selected for a competitive rotation with Global IT Content Management. That rotation changed everything. It turned out that the part of the job Rivers was best at — and most drawn to — was not resolving the ticket. It was making sure the next person did not need to file one.
