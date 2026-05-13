@@ -3,6 +3,7 @@ title: "Welcome"
 date: 2026-05-13
 categories:
   - General
+excerpt: "Hey, thanks for stopping by. I'm Rivers Wells, a Program and Content Manager based in the Seattle area. Here's what you'll find on this site."
 ---
 
 Hey, thanks for stopping by.
