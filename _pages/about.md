@@ -3,11 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
----
-title: "About"
-permalink: /about/
----
-
 ## About M. Rivers Wells
 
 Rivers Wells did not set out to become a program manager or technical writer. He set out to fix computers.
