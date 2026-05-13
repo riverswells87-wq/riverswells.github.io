@@ -16,11 +16,7 @@
 title: M. Rivers Wells
 email: riverswells87@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: 
-github_username: 
+Personal website for M. Rivers Wells — Senior Program and Content Manager specializing in AI tooling, content strategy, and data accessibility. Includes resume, portfolio, and professional blog.
 minimal_mistakes_skin: default
 search: true
 
@@ -68,15 +64,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/marion-rivers-wells/"
 
 defaults:
   # _posts
