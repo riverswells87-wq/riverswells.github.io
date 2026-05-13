@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a Senior Program and Content Manager with 9+ years at Amazon, specializing in AI tooling, content strategy, and data accessibility. I build programs and tools that turn complex information into clear, measurable outcomes.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I designed and launched an LLM-powered AI agent that delivers operational BI insights in under two minutes, and developed automation proposals that cut document creation time by 80%. I also owned Amazon's global internal IT support site, driving content improvements that added hundreds of basis points to site performance for 350,000 monthly readers.
+
+As a Communications Program Manager, I led campaigns reaching 1.7 million employees and drove adoption results exceeding goals by 283%. I navigated complex, multi-stakeholder environments and consistently delivered ahead of schedule.
+
+I am exploring new opportunities in program management, AI tooling, content strategy, and communications leadership. If you are building something that needs someone who can own it end to end, I would love to connect.
