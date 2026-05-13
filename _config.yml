@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "M. Rivers Wells"
   avatar : "/assets/images/bio-photo1.png"
-  bio    : "Senior Program and Content Manager with 9+ years at Amazon, specializing in AI tooling, content strategy, and data accessibility. I built an LLM-powered AI agent delivering BI insights in under two minutes and led communications campaigns reaching 1.7 million employees. Currently exploring new opportunities. View my resume or portfolio to learn more.""
+  bio    : "Senior Program and Content Manager with 9+ years at Amazon, specializing in AI tooling, content strategy, and data accessibility. I built an LLM-powered AI agent delivering BI insights in under two minutes and led communications campaigns reaching 1.7 million employees. Currently exploring new opportunities. View my resume or portfolio to learn more."
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
