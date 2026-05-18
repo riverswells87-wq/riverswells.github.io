@@ -88,7 +88,7 @@ toc_icon: "briefcase"
 
 ## Independent Projects
 
-### The Fire and the Forge
+### The Fire and the Forge (Novel)
 **Author:** M.R. Wells  
 **Published:** April 30, 2018  
 **Genre:** Adventure Fiction / Fantasy  
@@ -104,3 +104,15 @@ When Maeser meets Brave Glenn — First Bravo, living legend, and ultimate buzzk
 *For fans of The Kingkiller Chronicle, Off to Be the Wizard, and The Dresden Files.*
 
 **What this demonstrates:** Long-form narrative writing, world-building, character development, independent creative project management from concept through publication, and the ability to sustain a distinctive voice across a full-length work. The Fire and the Forge represents the creative range behind my professional writing practice.
+
+### SCP: Mobile Task Force (Game/TTRPG)
+**Author:** M.R. Wells  
+**Published:** May 12, 2026
+
+[Read free here]([https://www.amazon.com/Fire-Forge-M-R-Wells-ebook/dp/B07CS1S5L7](https://docs.google.com/document/d/e/2PACX-1vTqlIMR8GoXUPN2PCSKV5bPo41X5ADwuJgRB9uNjrUB3MCiDoGHMSNmLVeFMd-ABg/pub))
+
+**About the game:** The SCP Foundation files everything. The file is never the whole story.
+
+SCP: Mobile Task Force is a tabletop RPG of bureaucratic horror, built on the Forged in the Dark ruleset. You play a Mobile Task Force — the last line, deployed when everything else has already failed. The anomalies are contained. The paperwork is filed. Something is always missing from the report.
+
+**What this demonstrates:** The ability to adapt an existing mechanical system with principled intent. The project also required writing for multiple audiences simultaneously (i.e., players, GMs, and the institutional fiction itself) each in a distinct voice and serving different information needs within the same document. Sustaining a specific and unusual tone of bureaucratic dread running from dark comedy to tragic horror consistently across a large body of work demonstrates both range and discipline. Finally, the project is finished, scoped with clear criteria, and internally coherent from the first playbook to the last adventure file.
