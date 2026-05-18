@@ -109,7 +109,7 @@ When Maeser meets Brave Glenn — First Bravo, living legend, and ultimate buzzk
 **Author:** M.R. Wells  
 **Published:** May 12, 2026
 
-[Read free here]([https://www.amazon.com/Fire-Forge-M-R-Wells-ebook/dp/B07CS1S5L7](https://docs.google.com/document/d/e/2PACX-1vTqlIMR8GoXUPN2PCSKV5bPo41X5ADwuJgRB9uNjrUB3MCiDoGHMSNmLVeFMd-ABg/pub))
+[Read free here]([https://www.amazon.com/Fire-Forge-M-R-Wells-ebook/dp/B07CS1S5L7](https://docs.google.com/document/d/e/2PACX-1vTqlIMR8GoXUPN2PCSKV5bPo41X5ADwuJgRB9uNjrUB3MCiDoGHMSNmLVeFMd-ABg/pub)
 
 **About the game:** The SCP Foundation files everything. The file is never the whole story.
 
