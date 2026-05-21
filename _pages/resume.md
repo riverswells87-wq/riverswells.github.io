@@ -99,9 +99,9 @@ Provided deskside IT support in Seattle, WA.
 | Role | Organization | Dates |
 |------|-------------|-------|
 | Help Desk Supervisor / Level II Technician | Tulalip Data Services | 2014 – 2016 |
-| Desktop Support Technician | Walker County District Attorney's Office | 2013 – 2014 |
-| Account Executive / Copywriter | dGroupe | 2010 |
-| Marketing Manager | Tallulah Bankhead Heritage Center | 2009 – 2010 |
+| Desktop Support Technician | Walker County District Attorney's Office | 2014 – 2014 |
+| Account Executive / Copywriter | dGroupe | 2012 - 2014 |
+| Marketing Manager | Tallulah Bankhead Heritage Center | 2009 – 2012 |
 
 ---
 
