@@ -1,0 +1,10 @@
+{
+  "buildCommand": null,
+  "outputDirectory": null,
+  "framework": null,
+  "functions": {
+    "api/claude-proxy.js": {
+      "runtime": "nodejs20.x"
+    }
+  }
+}
