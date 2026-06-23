@@ -1,0 +1,13 @@
+[build]
+  command = "jekyll build"
+  publish = "_site"
+
+[functions]
+  directory = "netlify/functions"
+
+# Redirect all requests to your GitHub Pages domain (optional)
+# Remove the [[redirects]] block if you want Netlify to host the full site
+# [[redirects]]
+#   from = "/*"
+#   to = "https://riverswells.com/:splat"
+#   status = 200
