@@ -1,9 +1,99 @@
 ---
 title: "Portfolio"
 permalink: /portfolio/
+toc: true
+toc_label: "Projects"
+toc_icon: "briefcase"
 ---
 
 *The following projects represent selected work from my career in program management, content strategy, AI development, and communications. Due to the internal nature of my work at Amazon, direct links are not available for professional projects. Each case study describes the challenge, my approach, and the measurable outcome.*
+
+---
+
+## Marketing & Campaign Highlights
+
+<details>
+<summary><strong>Communication Campaigns</strong></summary>
+<ul>
+  <li>Delivered data-retention communication to 1.2M employees across Chime and Slack — 91% helpfulness rating, highest on record for a campaign of that scale</li>
+  <li>Drove Office 2016→2019 upgrade across 330,000 employees and 500,000 devices — 99.89% compliance in 60 days, engineering overflow team stood down entirely</li>
+  <li>Exceeded pre-deployment adoption goals by 283% on an enterprise in-experience campaign</li>
+  <li>Designed and launched the ICON newsletter format, establishing the template and editorial standards used for ongoing leadership communications</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Agency & Marketing Background</strong></summary>
+<ul>
+  <li>Led ZeroMeth public-health account at dGroupe — earned agency's highest-ever client-satisfaction return</li>
+  <li>Secured Smithsonian grant for Tallulah Bankhead Heritage Center, awarded to only 27 sites nationally</li>
+  <li>BS in Marketing, Auburn University</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Content Marketing & Creative Production</strong></summary>
+<ul>
+  <li>Owned content strategy for it.amazon.com — 350,000 monthly readers</li>
+  <li>Produced Adobe Creative Cloud video tutorials — 1.5M views, 55% audience engagement rate</li>
+  <li>Managed content intake model processing 5,357 annual submissions</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Video Development</strong></summary>
+<ul>
+  <li>Scripted, produced, and edited training and tutorial videos using Adobe Creative Suite</li>
+  <li>Video library accumulated 1.5M views at 55% average audience engagement rate across it.amazon.com</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Web Development</strong></summary>
+<ul>
+  <li>Designed and built the ICON organization homepage using HTML and CSS</li>
+  <li>Established layout, visual structure, and content standards adopted for ongoing use</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Program Management</strong></summary>
+<ul>
+  <li>Owned full program roadmap for AI-driven data accessibility and documentation infrastructure across a VP-level org</li>
+  <li>Managed cross-functional stakeholder alignment across engineering, product, legal, and senior leadership</li>
+  <li>Drove adoption campaigns exceeding pre-deployment goals by 283%; led initiatives affecting up to 1.2M employees</li>
+  <li>Coordinated approval workflows involving 32 stakeholders across 5 cross-functional groups</li>
+  <li>Built reporting frameworks used weekly by Director and VP-level leadership</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Technical Team Collaboration</strong></summary>
+<ul>
+  <li>Served as primary owner of it.amazon.com, partnering directly with engineering teams to manage site performance, content infrastructure, and ongoing development</li>
+  <li>Led cross-functional programs within ICON alongside engineering, product, and operations teams — coordinating roadmap alignment, data accessibility initiatives, and AI tooling deployment</li>
+  <li>Managed approval workflows involving 32 stakeholders across 5 cross-functional groups on a single initiative</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Collaboration Tools</strong></summary>
+<ul>
+  <li>Extensive experience with Slack and Amazon Chime as primary communication and campaign delivery platforms</li>
+  <li>Delivered enterprise communications simultaneously across both platforms to audiences of up to 1.2M employees</li>
+  <li>Used both tools for cross-functional coordination across distributed, multi-stakeholder programs</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Creative Production & Brand Work</strong></summary>
+<ul>
+  <li>Created the Be You campaign branding kit at Amazon, including visual identity and marketing materials</li>
+  <li>Developed marketing material for ReBalanca and Region Flex initiatives</li>
+  <li>Agency copywriting and creative production at dGroupe across web, print, and broadcast formats</li>
+  <li>Collaborated with creative teams to develop and deliver brand-consistent assets across multiple campaigns</li>
+</ul>
+</details>
 
 ---
 
@@ -82,95 +172,6 @@ permalink: /portfolio/
 **Skills demonstrated:** Content development, instructional design, video production, Adobe Creative Cloud, global content delivery, UX writing
 
 ---
-
-## Marketing & Campaign Highlights
-
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1.5rem; margin-top: 1.5rem;">
-
-  <div style="border: 1px solid #ddd; border-radius: 6px; padding: 1.25rem;">
-    <h3 style="margin-top: 0;">Communication Campaigns</h3>
-    <ul>
-      <li>Delivered data-retention communication to 1.2M employees across Chime and Slack — 91% helpfulness rating, highest on record for a campaign of that scale</li>
-      <li>Drove Office 2016→2019 upgrade across 330,000 employees and 500,000 devices — 99.89% compliance in 60 days, engineering overflow team stood down entirely</li>
-      <li>Exceeded pre-deployment adoption goals by 283% on an enterprise in-experience campaign</li>
-      <li>Designed and launched the ICON newsletter format, establishing the template and editorial standards used for ongoing leadership communications</li>
-    </ul>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 6px; padding: 1.25rem;">
-    <h3 style="margin-top: 0;">Agency & Marketing Background</h3>
-    <ul>
-      <li>Led ZeroMeth public-health account at dGroupe — earned agency's highest-ever client-satisfaction return</li>
-      <li>Secured Smithsonian grant for Tallulah Bankhead Heritage Center, awarded to only 27 sites nationally</li>
-      <li>BS in Marketing, Auburn University</li>
-    </ul>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 6px; padding: 1.25rem;">
-    <h3 style="margin-top: 0;">Content Marketing & Creative Production</h3>
-    <ul>
-      <li>Owned content strategy for it.amazon.com — 350,000 monthly readers</li>
-      <li>Produced Adobe Creative Cloud video tutorials — 1.5M views, 55% audience engagement rate</li>
-      <li>Managed content intake model processing 5,357 annual submissions</li>
-    </ul>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 6px; padding: 1.25rem;">
-    <h3 style="margin-top: 0;">Video Development</h3>
-    <ul>
-      <li>Scripted, produced, and edited training and tutorial videos using Adobe Creative Suite</li>
-      <li>Video library accumulated 1.5M views at 55% average audience engagement rate across it.amazon.com</li>
-    </ul>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 6px; padding: 1.25rem;">
-    <h3 style="margin-top: 0;">Web Development</h3>
-    <ul>
-      <li>Designed and built the ICON organization homepage using HTML and CSS</li>
-      <li>Established layout, visual structure, and content standards adopted for ongoing use</li>
-    </ul>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 6px; padding: 1.25rem;">
-    <h3 style="margin-top: 0;">Program Management</h3>
-    <ul>
-      <li>Owned full program roadmap for AI-driven data accessibility and documentation infrastructure across a VP-level org</li>
-      <li>Managed cross-functional stakeholder alignment across engineering, product, legal, and senior leadership</li>
-      <li>Drove adoption campaigns exceeding pre-deployment goals by 283%; led initiatives affecting up to 1.2M employees</li>
-      <li>Coordinated approval workflows involving 32 stakeholders across 5 cross-functional groups</li>
-      <li>Built reporting frameworks used weekly by Director and VP-level leadership</li>
-    </ul>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 6px; padding: 1.25rem;">
-    <h3 style="margin-top: 0;">Technical Team Collaboration</h3>
-    <ul>
-      <li>Served as primary owner of it.amazon.com, partnering directly with engineering teams to manage site performance, content infrastructure, and ongoing development</li>
-      <li>Led cross-functional programs within ICON alongside engineering, product, and operations teams — coordinating roadmap alignment, data accessibility initiatives, and AI tooling deployment</li>
-      <li>Managed approval workflows involving 32 stakeholders across 5 cross-functional groups on a single initiative</li>
-    </ul>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 6px; padding: 1.25rem;">
-    <h3 style="margin-top: 0;">Collaboration Tools</h3>
-    <ul>
-      <li>Extensive experience with Slack and Amazon Chime as primary communication and campaign delivery platforms</li>
-      <li>Delivered enterprise communications simultaneously across both platforms to audiences of up to 1.2M employees</li>
-      <li>Used both tools for cross-functional coordination across distributed, multi-stakeholder programs</li>
-    </ul>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 6px; padding: 1.25rem;">
-    <h3 style="margin-top: 0;">Creative Production & Brand Work</h3>
-    <ul>
-      <li>Created the Be You campaign branding kit at Amazon, including visual identity and marketing materials</li>
-      <li>Developed marketing material for ReBalanca and Region Flex initiatives</li>
-      <li>Agency copywriting and creative production at dGroupe across web, print, and broadcast formats</li>
-      <li>Collaborated with creative teams to develop and deliver brand-consistent assets across multiple campaigns</li>
-    </ul>
-  </div>
-
-</div>
 
 ---
 
