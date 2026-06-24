@@ -207,10 +207,10 @@ permalink: /chat/
 
 <div class="chat-wrapper">
   <div class="chat-header">
-    <div class="avatar">👩‍💻</div>
+    <div class="avatar">👨‍💻</div>
     <div class="header-text">
-      <h2>Ask About Marion's Work</h2>
-      <p><span class="status-dot"></span>AI-powered · Knows Marion's full background</p>
+      <h2>Ask About Rivers' Work</h2>
+      <p><span class="status-dot"></span>AI-powered · Knows Rivers' full background</p>
     </div>
   </div>
 
@@ -219,20 +219,20 @@ permalink: /chat/
       <div class="msg-icon ai">✦</div>
       <div>
         <div class="bubble">
-          Hey there! 👋 I'm here to answer any questions about Marion's professional background — her experience, skills, projects, and more. What would you like to know?
+          Hey there! 👋 I'm here to answer any questions about Rivers' professional background — his experience, skills, projects, and more. What would you like to know?
         </div>
         <div class="suggestions">
-          <button class="suggestion-chip" onclick="sendSuggestion(this)">What industries has she worked in?</button>
-          <button class="suggestion-chip" onclick="sendSuggestion(this)">What are her top skills?</button>
-          <button class="suggestion-chip" onclick="sendSuggestion(this)">Tell me about her most recent role</button>
-          <button class="suggestion-chip" onclick="sendSuggestion(this)">What AI projects has she built?</button>
+          <button class="suggestion-chip" onclick="sendSuggestion(this)">What industries has he worked in?</button>
+          <button class="suggestion-chip" onclick="sendSuggestion(this)">What are his top skills?</button>
+          <button class="suggestion-chip" onclick="sendSuggestion(this)">Tell me about his most recent role</button>
+          <button class="suggestion-chip" onclick="sendSuggestion(this)">What AI projects has he built?</button>
         </div>
       </div>
     </div>
   </div>
 
   <div class="chat-input-area">
-    <textarea id="user-input" placeholder="Ask anything about Marion's experience…" rows="1"></textarea>
+    <textarea id="user-input" placeholder="Ask anything about Rivers' experience…" rows="1"></textarea>
     <button id="send-btn" onclick="sendMessage()">
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
         <line x1="22" y1="2" x2="11" y2="13"></line>
@@ -241,7 +241,7 @@ permalink: /chat/
     </button>
   </div>
 
-  <div class="powered-by">powered by Claude · built for Marion's portfolio</div>
+  <div class="powered-by">powered by Claude · built for Rivers' portfolio</div>
 </div>
 
 <script>
@@ -249,7 +249,7 @@ const RESUME_CONTEXT = `
 Rivers Wells — Resume
 
 CONTACT
-Everett, WA | 205.522.6027 | riverswells87@gmail.com | linkedin.com/in/marion-rivers-wells | riverswells.com
+Everett, WA | 205.522.6027 | riverswells87@gmail.com | linkedin.com/in/Rivers-rivers-wells | riverswells.com
 
 TITLE: Senior Program/Content Manager
 Specialties: Content Strategy | Technical Writing | LLM Development | UX/CX Design | Data Research & Validation
@@ -310,7 +310,6 @@ Bachelor of Science, Marketing — Auburn University
 CompTIA A+ Certification
 `;
 
-// Replace this with your Netlify function URL after deploying
 const PROXY_URL = 'https://riverswells87-wq-github-io.vercel.app/api/claude-proxy';
 
 const conversationHistory = [];
@@ -318,13 +317,13 @@ const conversationHistory = [];
 async function callClaude(userMessage) {
   conversationHistory.push({ role: "user", content: userMessage });
 
-  const systemPrompt = `You are a friendly, conversational assistant embedded on Marion Rivers Wells's portfolio website. Your ONLY job is to answer questions about Marion's professional background, skills, experience, and education based on her resume below.
+  const systemPrompt = `You are a friendly, conversational assistant embedded on Rivers Rivers Wells's portfolio website. Your ONLY job is to answer questions about Rivers' professional background, skills, experience, and education based on his resume below.
 
-If someone asks about something not covered in the resume, kindly let them know you can only speak to her professional background, and suggest a related question you CAN answer.
+If someone asks about something not covered in the resume, kindly let them know you can only speak to his professional background, and suggest a related question you CAN answer.
 
-Keep answers warm, concise, and natural — like a knowledgeable colleague talking about Marion, not a robot reciting a resume. Use first name "Marion" naturally. Don't bullet-point everything; mix in prose. Be enthusiastic about her accomplishments.
+Keep answers warm, concise, and natural — like a knowledgeable colleague talking about Rivers, not a robot reciting a resume. Use first name "Rivers" naturally. Use he/him pronouns when referring to Rivers. Don't bullet-point everything; mix in prose. Be enthusiastic about his accomplishments.
 
-MARION'S RESUME:
+Rivers' RESUME:
 ${RESUME_CONTEXT}`;
 
   const response = await fetch(PROXY_URL, {
