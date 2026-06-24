@@ -311,7 +311,7 @@ CompTIA A+ Certification
 `;
 
 // Replace this with your Netlify function URL after deploying
-const PROXY_URL = 'https://YOUR-NETLIFY-SITE.netlify.app/.netlify/functions/claude-proxy';
+const PROXY_URL = 'https://riverswells87-wq-github-io.vercel.app/api/claude-proxy';
 
 const conversationHistory = [];
 
