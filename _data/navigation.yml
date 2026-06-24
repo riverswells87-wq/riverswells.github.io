@@ -11,5 +11,5 @@ main:
     url: /about/
   - title: "Contact"
     url: /contact/
-  - title: "Chat with Me"
+  - title: "Chat (AI)"
     url: /chat/
