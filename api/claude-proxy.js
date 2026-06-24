@@ -38,6 +38,8 @@ export default async function handler(req, res) {
     );
 
     const data = await geminiRes.json();
+    console.log('Gemini status:', geminiRes.status);
+    console.log('Gemini response:', JSON.stringify(data));
 
     const text = data.candidates?.[0]?.content?.parts?.[0]?.text
       || "Sorry, I had trouble with that. Try asking something else!";
@@ -46,4 +48,8 @@ export default async function handler(req, res) {
       content: [{ type: 'text', text }]
     });
 
+  } catch (err) {
+    console.error('Caught error:', err.message);
+    return res.status(500).json({ error: err.message });
   }
+}
