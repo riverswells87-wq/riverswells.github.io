@@ -19,7 +19,7 @@ export default async function handler(req, res) {
       parts: [{ text: m.content }]
     }));
 
-    const response = await fetch(
+    const geminiRes = await fetch(
       `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${process.env.GEMINI_API_KEY}`,
       {
         method: 'POST',
@@ -37,7 +37,9 @@ export default async function handler(req, res) {
       }
     );
 
-    const data = await response.json();
+    const data = await geminiRes.json();
+    console.log('Gemini status:', geminiRes.status);
+    console.log('Gemini response:', JSON.stringify(data));
 
     const text = data.candidates?.[0]?.content?.parts?.[0]?.text
       || "Sorry, I had trouble with that. Try asking something else!";
@@ -47,7 +49,7 @@ export default async function handler(req, res) {
     });
 
   } catch (err) {
-    console.error(err);
+    console.error('Caught error:', err.message);
     return res.status(500).json({ error: 'Internal server error' });
   }
 }
