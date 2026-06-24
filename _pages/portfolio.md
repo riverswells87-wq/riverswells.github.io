@@ -89,7 +89,7 @@ toc_icon: "briefcase"
 <summary><strong>Creative Production & Brand Work</strong></summary>
 <ul>
   <li>Created the Be You campaign branding kit at Amazon, including visual identity and marketing materials</li>
-  <li>Developed marketing material for ReBalanca and Region Flex initiatives</li>
+  <li>Developed marketing material for ReBalance and Region Flex initiatives</li>
   <li>Agency copywriting and creative production at dGroupe across web, print, and broadcast formats</li>
   <li>Collaborated with creative teams to develop and deliver brand-consistent assets across multiple campaigns</li>
 </ul>
